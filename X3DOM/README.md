@@ -1,2 +1,3 @@
 # AGS2016
-Advanced Games Studies 2016
+
+Save html files locally view as 3D.
